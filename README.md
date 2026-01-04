@@ -58,6 +58,7 @@ student-performance-data-analysis/
 ├── Student_Performance_Analysis.ipynb
 ├── student_performance.csv
 ├── README.md
+└── .gitignore
 
 ```
 ## How to Run the Project
